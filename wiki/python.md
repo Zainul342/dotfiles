@@ -14,3 +14,7 @@
 ### Today I Learned: Python
 > Combine multiple lists element-wise using 'zip(list1, list2)'.
 *Logged at: 2026-05-04T11:27:24*
+
+### Today I Learned: Python
+> Read command-line arguments safely via the standard library 'sys.argv'.
+*Logged at: 2026-05-04T20:26:32*
