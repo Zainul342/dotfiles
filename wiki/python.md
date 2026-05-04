@@ -10,3 +10,7 @@
 ### Today I Learned: Python
 > Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
 *Logged at: 2026-05-04T21:37:18*
+
+### Today I Learned: Python
+> Combine multiple lists element-wise using 'zip(list1, list2)'.
+*Logged at: 2026-05-04T11:27:24*
