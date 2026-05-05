@@ -26,3 +26,7 @@
 ### Today I Learned: Git
 > Remove untracked directories and files cleanly using 'git clean -fd'.
 *Logged at: 2026-05-05T17:43:09*
+
+### Today I Learned: Git
+> Temporarily save untracked or modified files using 'git stash -u'.
+*Logged at: 2026-05-05T16:04:37*
