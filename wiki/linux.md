@@ -42,3 +42,7 @@
 ### Today I Learned: Linux
 > Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
 *Logged at: 2026-05-05T11:39:29*
+
+### Today I Learned: Linux
+> Create an archive using 'tar -czvf archive.tar.gz directory/'.
+*Logged at: 2026-05-05T13:56:56*
