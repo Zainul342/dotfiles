@@ -70,3 +70,7 @@
 ### Today I Learned: Python
 > Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
 *Logged at: 2026-05-06T09:33:48*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-05-06T16:59:26*
