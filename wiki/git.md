@@ -58,3 +58,7 @@
 ### Today I Learned: Git
 > Force-push safely with lease validation using 'git push --force-with-lease'.
 *Logged at: 2026-05-06T14:23:21*
+
+### Today I Learned: Git
+> See staged changes before committing using 'git diff --staged'.
+*Logged at: 2026-05-06T12:52:09*
