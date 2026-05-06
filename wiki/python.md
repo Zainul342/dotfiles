@@ -58,3 +58,7 @@
 ### Today I Learned: Python
 > Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
 *Logged at: 2026-05-06T19:10:38*
+
+### Today I Learned: Python
+> Read command-line arguments safely via the standard library 'sys.argv'.
+*Logged at: 2026-05-06T21:52:09*
