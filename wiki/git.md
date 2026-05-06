@@ -50,3 +50,7 @@
 ### Today I Learned: Git
 > See staged changes before committing using 'git diff --staged'.
 *Logged at: 2026-05-06T15:47:27*
+
+### Today I Learned: Git
+> Show who modified each line of a file using 'git blame filename'.
+*Logged at: 2026-05-06T09:56:47*
