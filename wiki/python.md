@@ -78,3 +78,7 @@
 ### Today I Learned: Python
 > Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
 *Logged at: 2026-05-06T18:18:38*
+
+### Today I Learned: Python
+> Safely open files using context managers: 'with open(file) as f:'.
+*Logged at: 2026-05-06T19:47:01*
