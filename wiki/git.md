@@ -42,3 +42,7 @@
 ### Today I Learned: Git
 > Recover lost commits or branch states using the reference log with 'git reflog'.
 *Logged at: 2026-05-06T19:27:09*
+
+### Today I Learned: Git
+> Show who modified each line of a file using 'git blame filename'.
+*Logged at: 2026-05-06T11:54:31*
