@@ -78,3 +78,7 @@
 ### Today I Learned: Git
 > View a clean, single-line git history tree using 'git log --oneline --graph --all'.
 *Logged at: 2026-05-07T12:37:54*
+
+### Today I Learned: Git
+> Reset working tree and index to a clean state using 'git reset --hard HEAD'.
+*Logged at: 2026-05-07T19:09:44*
