@@ -86,3 +86,7 @@
 ### Today I Learned: Git
 > Modify your last commit message using 'git commit --amend -m "new message"'.
 *Logged at: 2026-05-07T12:14:42*
+
+### Today I Learned: Git
+> Force-push safely with lease validation using 'git push --force-with-lease'.
+*Logged at: 2026-05-07T11:32:54*
