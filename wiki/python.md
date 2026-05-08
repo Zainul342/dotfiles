@@ -138,3 +138,7 @@
 ### Today I Learned: Python
 > Safely open files using context managers: 'with open(file) as f:'.
 *Logged at: 2026-05-08T21:18:23*
+
+### Today I Learned: Python
+> Combine multiple lists element-wise using 'zip(list1, list2)'.
+*Logged at: 2026-05-08T18:12:09*
