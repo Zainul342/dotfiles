@@ -186,3 +186,7 @@
 ### Today I Learned: Linux
 > Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
 *Logged at: 2026-05-11T12:01:45*
+
+### Today I Learned: Linux
+> Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
+*Logged at: 2026-05-11T18:02:40*
