@@ -158,3 +158,7 @@
 ### Today I Learned: Git
 > Reset working tree and index to a clean state using 'git reset --hard HEAD'.
 *Logged at: 2026-05-10T12:02:24*
+
+### Today I Learned: Git
+> Recover lost commits or branch states using the reference log with 'git reflog'.
+*Logged at: 2026-05-11T16:09:40*
