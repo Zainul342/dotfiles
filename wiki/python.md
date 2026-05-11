@@ -194,3 +194,7 @@
 ### Today I Learned: Python
 > Use list comprehensions '[x for x in items if condition]' for concise list creation.
 *Logged at: 2026-05-11T13:54:34*
+
+### Today I Learned: Python
+> Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
+*Logged at: 2026-05-11T18:37:26*
