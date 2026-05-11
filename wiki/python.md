@@ -202,3 +202,7 @@
 ### Today I Learned: Python
 > Use generator expressions '(x for x in large_range)' to save system memory.
 *Logged at: 2026-05-11T15:01:43*
+
+### Today I Learned: Python
+> Combine multiple lists element-wise using 'zip(list1, list2)'.
+*Logged at: 2026-05-11T13:29:02*
