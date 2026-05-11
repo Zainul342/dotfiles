@@ -198,3 +198,7 @@
 ### Today I Learned: Python
 > Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
 *Logged at: 2026-05-11T18:37:26*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-05-11T15:01:43*
