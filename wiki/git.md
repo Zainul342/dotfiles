@@ -170,3 +170,7 @@
 ### Today I Learned: Git
 > Modify your last commit message using 'git commit --amend -m "new message"'.
 *Logged at: 2026-05-11T18:28:50*
+
+### Today I Learned: Git
+> Remove untracked directories and files cleanly using 'git clean -fd'.
+*Logged at: 2026-05-11T09:39:41*
