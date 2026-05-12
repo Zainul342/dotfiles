@@ -238,3 +238,7 @@
 ### Today I Learned: Python
 > Use list comprehensions '[x for x in items if condition]' for concise list creation.
 *Logged at: 2026-05-12T17:38:58*
+
+### Today I Learned: Python
+> Read command-line arguments safely via the standard library 'sys.argv'.
+*Logged at: 2026-05-12T10:56:48*
