@@ -198,3 +198,7 @@
 ### Today I Learned: Linux
 > Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
 *Logged at: 2026-05-12T16:25:29*
+
+### Today I Learned: Linux
+> Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
+*Logged at: 2026-05-12T13:19:07*
