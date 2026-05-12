@@ -218,3 +218,7 @@
 ### Today I Learned: Linux
 > Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
 *Logged at: 2026-05-12T21:34:34*
+
+### Today I Learned: Linux
+> Check systemd user services logs using 'journalctl --user -u service-name.service'.
+*Logged at: 2026-05-12T09:21:02*
