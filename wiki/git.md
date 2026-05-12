@@ -206,3 +206,7 @@
 ### Today I Learned: Git
 > Temporarily save untracked or modified files using 'git stash -u'.
 *Logged at: 2026-05-11T13:49:06*
+
+### Today I Learned: Git
+> List all tracked configurations and their origins using 'git config --list --show-origin'.
+*Logged at: 2026-05-12T13:18:30*
