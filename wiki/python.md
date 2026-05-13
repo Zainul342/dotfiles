@@ -266,3 +266,7 @@
 ### Today I Learned: Python
 > Get index and value simultaneously in loops using 'for idx, val in enumerate(items)'.
 *Logged at: 2026-05-13T20:00:21*
+
+### Today I Learned: Python
+> Safely open files using context managers: 'with open(file) as f:'.
+*Logged at: 2026-05-13T17:15:20*
