@@ -258,3 +258,7 @@
 ### Today I Learned: Python
 > Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
 *Logged at: 2026-05-12T13:55:43*
+
+### Today I Learned: Python
+> Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
+*Logged at: 2026-05-13T14:30:41*
