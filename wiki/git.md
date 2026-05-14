@@ -298,3 +298,7 @@
 ### Today I Learned: Git
 > Remove untracked directories and files cleanly using 'git clean -fd'.
 *Logged at: 2026-05-14T09:35:36*
+
+### Today I Learned: Git
+> Modify your last commit message using 'git commit --amend -m "new message"'.
+*Logged at: 2026-05-14T21:07:05*
