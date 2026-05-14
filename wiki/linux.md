@@ -238,3 +238,7 @@
 ### Today I Learned: Linux
 > Use 'rsync -avz --progress source/ destination/' for efficient file synchronization.
 *Logged at: 2026-05-13T15:53:14*
+
+### Today I Learned: Linux
+> Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
+*Logged at: 2026-05-14T09:40:28*
