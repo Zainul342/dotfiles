@@ -298,3 +298,7 @@
 ### Today I Learned: Python
 > Read command-line arguments safely via the standard library 'sys.argv'.
 *Logged at: 2026-05-14T16:13:06*
+
+### Today I Learned: Python
+> Use list comprehensions '[x for x in items if condition]' for concise list creation.
+*Logged at: 2026-05-14T16:54:24*
