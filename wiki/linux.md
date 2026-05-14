@@ -258,3 +258,7 @@
 ### Today I Learned: Linux
 > Search files efficiently using 'grep -rnI "search_term" directory/'.
 *Logged at: 2026-05-14T21:37:44*
+
+### Today I Learned: Linux
+> Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
+*Logged at: 2026-05-14T13:53:00*
