@@ -282,3 +282,7 @@
 ### Today I Learned: Linux
 > Check systemd user services logs using 'journalctl --user -u service-name.service'.
 *Logged at: 2026-05-14T13:57:17*
+
+### Today I Learned: Linux
+> Create an archive using 'tar -czvf archive.tar.gz directory/'.
+*Logged at: 2026-05-14T12:41:17*
