@@ -302,3 +302,7 @@
 ### Today I Learned: Git
 > Modify your last commit message using 'git commit --amend -m "new message"'.
 *Logged at: 2026-05-14T21:07:05*
+
+### Today I Learned: Git
+> Reset working tree and index to a clean state using 'git reset --hard HEAD'.
+*Logged at: 2026-05-15T09:42:45*
