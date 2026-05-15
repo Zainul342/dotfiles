@@ -306,3 +306,7 @@
 ### Today I Learned: Git
 > Reset working tree and index to a clean state using 'git reset --hard HEAD'.
 *Logged at: 2026-05-15T09:42:45*
+
+### Today I Learned: Git
+> See staged changes before committing using 'git diff --staged'.
+*Logged at: 2026-05-15T20:50:44*
