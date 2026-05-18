@@ -314,3 +314,7 @@
 ### Today I Learned: Python
 > Read command-line arguments safely via the standard library 'sys.argv'.
 *Logged at: 2026-05-15T21:20:43*
+
+### Today I Learned: Python
+> Combine multiple lists element-wise using 'zip(list1, list2)'.
+*Logged at: 2026-05-18T16:15:20*
