@@ -326,3 +326,7 @@
 ### Today I Learned: Python
 > Get index and value simultaneously in loops using 'for idx, val in enumerate(items)'.
 *Logged at: 2026-05-18T19:30:45*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-05-18T17:54:11*
