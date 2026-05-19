@@ -386,3 +386,7 @@
 ### Today I Learned: Git
 > List all tracked configurations and their origins using 'git config --list --show-origin'.
 *Logged at: 2026-05-19T10:55:05*
+
+### Today I Learned: Git
+> Reset working tree and index to a clean state using 'git reset --hard HEAD'.
+*Logged at: 2026-05-19T11:01:40*
