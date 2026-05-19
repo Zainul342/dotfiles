@@ -346,3 +346,7 @@
 ### Today I Learned: Python
 > Use list comprehensions '[x for x in items if condition]' for concise list creation.
 *Logged at: 2026-05-19T20:42:25*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-05-19T09:03:55*
