@@ -390,3 +390,7 @@
 ### Today I Learned: Linux
 > Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
 *Logged at: 2026-05-19T12:36:14*
+
+### Today I Learned: Linux
+> Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
+*Logged at: 2026-05-19T17:20:53*
