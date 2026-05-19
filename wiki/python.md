@@ -338,3 +338,7 @@
 ### Today I Learned: Python
 > Measure execution times using the built-in 'timeit' profiling module.
 *Logged at: 2026-05-19T16:04:22*
+
+### Today I Learned: Python
+> Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
+*Logged at: 2026-05-19T18:17:52*
