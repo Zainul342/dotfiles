@@ -394,3 +394,7 @@
 ### Today I Learned: Linux
 > Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
 *Logged at: 2026-05-19T17:20:53*
+
+### Today I Learned: Linux
+> Create an archive using 'tar -czvf archive.tar.gz directory/'.
+*Logged at: 2026-05-19T09:28:15*
