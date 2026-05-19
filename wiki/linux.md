@@ -374,3 +374,7 @@
 ### Today I Learned: Linux
 > Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
 *Logged at: 2026-05-19T12:46:49*
+
+### Today I Learned: Linux
+> Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
+*Logged at: 2026-05-19T21:29:32*
