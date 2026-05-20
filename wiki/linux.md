@@ -398,3 +398,7 @@
 ### Today I Learned: Linux
 > Create an archive using 'tar -czvf archive.tar.gz directory/'.
 *Logged at: 2026-05-19T09:28:15*
+
+### Today I Learned: Linux
+> Update the Fontconfig font cache using 'fc-cache -f -v'.
+*Logged at: 2026-05-20T15:57:58*
