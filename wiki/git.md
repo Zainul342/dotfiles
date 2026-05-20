@@ -402,3 +402,7 @@
 ### Today I Learned: Git
 > Show who modified each line of a file using 'git blame filename'.
 *Logged at: 2026-05-20T19:16:37*
+
+### Today I Learned: Git
+> View a clean, single-line git history tree using 'git log --oneline --graph --all'.
+*Logged at: 2026-05-20T12:58:26*
