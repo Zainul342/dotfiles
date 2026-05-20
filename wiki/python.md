@@ -366,3 +366,7 @@
 ### Today I Learned: Python
 > Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
 *Logged at: 2026-05-20T10:49:16*
+
+### Today I Learned: Python
+> Read command-line arguments safely via the standard library 'sys.argv'.
+*Logged at: 2026-05-20T18:54:55*
