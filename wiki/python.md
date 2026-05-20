@@ -382,3 +382,7 @@
 ### Today I Learned: Python
 > Combine multiple lists element-wise using 'zip(list1, list2)'.
 *Logged at: 2026-05-20T20:16:06*
+
+### Today I Learned: Python
+> Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
+*Logged at: 2026-05-20T10:43:42*
