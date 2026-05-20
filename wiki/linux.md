@@ -430,3 +430,7 @@
 ### Today I Learned: Linux
 > Use 'setsid command' to detach a process from the controlling terminal session.
 *Logged at: 2026-05-20T21:27:27*
+
+### Today I Learned: Linux
+> Create an archive using 'tar -czvf archive.tar.gz directory/'.
+*Logged at: 2026-05-20T16:42:28*
