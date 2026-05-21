@@ -462,3 +462,7 @@
 ### Today I Learned: Linux
 > Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
 *Logged at: 2026-05-21T20:39:49*
+
+### Today I Learned: Linux
+> Use 'setsid command' to detach a process from the controlling terminal session.
+*Logged at: 2026-05-21T20:53:18*
