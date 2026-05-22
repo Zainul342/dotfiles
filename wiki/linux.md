@@ -486,3 +486,7 @@
 ### Today I Learned: Linux
 > Update the Fontconfig font cache using 'fc-cache -f -v'.
 *Logged at: 2026-05-22T17:48:53*
+
+### Today I Learned: Linux
+> Use 'rsync -avz --progress source/ destination/' for efficient file synchronization.
+*Logged at: 2026-05-22T11:44:11*
