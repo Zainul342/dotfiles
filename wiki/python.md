@@ -470,3 +470,7 @@
 ### Today I Learned: Python
 > Read command-line arguments safely via the standard library 'sys.argv'.
 *Logged at: 2026-05-25T09:43:59*
+
+### Today I Learned: Python
+> Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
+*Logged at: 2026-05-25T18:18:56*
