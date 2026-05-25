@@ -530,3 +530,7 @@
 ### Today I Learned: Linux
 > Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
 *Logged at: 2026-05-25T19:23:04*
+
+### Today I Learned: Linux
+> Use 'setsid command' to detach a process from the controlling terminal session.
+*Logged at: 2026-05-25T12:26:59*
