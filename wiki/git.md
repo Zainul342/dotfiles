@@ -506,3 +506,7 @@
 ### Today I Learned: Git
 > Reset working tree and index to a clean state using 'git reset --hard HEAD'.
 *Logged at: 2026-05-25T21:27:00*
+
+### Today I Learned: Git
+> Show who modified each line of a file using 'git blame filename'.
+*Logged at: 2026-05-25T11:38:10*
