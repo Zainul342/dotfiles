@@ -462,3 +462,7 @@
 ### Today I Learned: Python
 > Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
 *Logged at: 2026-05-25T20:10:45*
+
+### Today I Learned: Python
+> Use list comprehensions '[x for x in items if condition]' for concise list creation.
+*Logged at: 2026-05-25T19:16:00*
