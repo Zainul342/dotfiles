@@ -482,3 +482,7 @@
 ### Today I Learned: Python
 > Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
 *Logged at: 2026-05-25T10:34:28*
+
+### Today I Learned: Python
+> Measure execution times using the built-in 'timeit' profiling module.
+*Logged at: 2026-05-25T15:46:05*
