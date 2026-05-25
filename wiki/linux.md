@@ -526,3 +526,7 @@
 ### Today I Learned: Linux
 > Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
 *Logged at: 2026-05-25T17:31:06*
+
+### Today I Learned: Linux
+> Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
+*Logged at: 2026-05-25T19:23:04*
