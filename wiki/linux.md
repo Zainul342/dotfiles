@@ -510,3 +510,7 @@
 ### Today I Learned: Linux
 > Create an archive using 'tar -czvf archive.tar.gz directory/'.
 *Logged at: 2026-05-25T11:00:13*
+
+### Today I Learned: Linux
+> Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
+*Logged at: 2026-05-25T10:42:11*
