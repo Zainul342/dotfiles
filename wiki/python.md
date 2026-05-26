@@ -514,3 +514,7 @@
 ### Today I Learned: Python
 > Read command-line arguments safely via the standard library 'sys.argv'.
 *Logged at: 2026-05-26T14:18:59*
+
+### Today I Learned: Python
+> Safely open files using context managers: 'with open(file) as f:'.
+*Logged at: 2026-05-26T19:32:23*
