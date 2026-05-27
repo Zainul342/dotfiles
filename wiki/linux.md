@@ -562,3 +562,7 @@
 ### Today I Learned: Linux
 > Create an archive using 'tar -czvf archive.tar.gz directory/'.
 *Logged at: 2026-05-27T13:42:26*
+
+### Today I Learned: Linux
+> Search files efficiently using 'grep -rnI "search_term" directory/'.
+*Logged at: 2026-05-27T20:25:40*
