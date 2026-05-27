@@ -566,3 +566,7 @@
 ### Today I Learned: Linux
 > Search files efficiently using 'grep -rnI "search_term" directory/'.
 *Logged at: 2026-05-27T20:25:40*
+
+### Today I Learned: Linux
+> Update the Fontconfig font cache using 'fc-cache -f -v'.
+*Logged at: 2026-05-27T17:45:33*
