@@ -550,3 +550,7 @@
 ### Today I Learned: Python
 > Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
 *Logged at: 2026-05-27T09:34:43*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-05-27T12:25:22*
