@@ -570,3 +570,7 @@
 ### Today I Learned: Linux
 > Update the Fontconfig font cache using 'fc-cache -f -v'.
 *Logged at: 2026-05-27T17:45:33*
+
+### Today I Learned: Linux
+> Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
+*Logged at: 2026-05-27T09:40:59*
