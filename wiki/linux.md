@@ -578,3 +578,7 @@
 ### Today I Learned: Linux
 > Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
 *Logged at: 2026-05-27T09:41:05*
+
+### Today I Learned: Linux
+> Use 'rsync -avz --progress source/ destination/' for efficient file synchronization.
+*Logged at: 2026-05-27T10:27:08*
