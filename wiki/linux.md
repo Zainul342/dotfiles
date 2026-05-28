@@ -610,3 +610,7 @@
 ### Today I Learned: Linux
 > Update the Fontconfig font cache using 'fc-cache -f -v'.
 *Logged at: 2026-05-28T14:01:16*
+
+### Today I Learned: Linux
+> Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
+*Logged at: 2026-05-28T15:02:14*
