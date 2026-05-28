@@ -566,3 +566,7 @@
 ### Today I Learned: Git
 > Force-push safely with lease validation using 'git push --force-with-lease'.
 *Logged at: 2026-05-28T19:58:12*
+
+### Today I Learned: Git
+> Reset working tree and index to a clean state using 'git reset --hard HEAD'.
+*Logged at: 2026-05-28T14:11:31*
