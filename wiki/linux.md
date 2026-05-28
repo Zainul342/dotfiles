@@ -606,3 +606,7 @@
 ### Today I Learned: Linux
 > Check systemd user services logs using 'journalctl --user -u service-name.service'.
 *Logged at: 2026-05-28T09:16:28*
+
+### Today I Learned: Linux
+> Update the Fontconfig font cache using 'fc-cache -f -v'.
+*Logged at: 2026-05-28T14:01:16*
