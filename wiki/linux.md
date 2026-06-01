@@ -678,3 +678,7 @@
 ### Today I Learned: Linux
 > Update the Fontconfig font cache using 'fc-cache -f -v'.
 *Logged at: 2026-06-01T12:33:48*
+
+### Today I Learned: Linux
+> Check systemd user services logs using 'journalctl --user -u service-name.service'.
+*Logged at: 2026-06-01T13:32:36*
