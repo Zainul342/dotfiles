@@ -682,3 +682,7 @@
 ### Today I Learned: Linux
 > Check systemd user services logs using 'journalctl --user -u service-name.service'.
 *Logged at: 2026-06-01T13:32:36*
+
+### Today I Learned: Linux
+> Use 'rsync -avz --progress source/ destination/' for efficient file synchronization.
+*Logged at: 2026-06-01T09:23:25*
