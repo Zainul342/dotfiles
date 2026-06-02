@@ -670,3 +670,7 @@
 ### Today I Learned: Python
 > Use list comprehensions '[x for x in items if condition]' for concise list creation.
 *Logged at: 2026-06-02T17:42:11*
+
+### Today I Learned: Python
+> Measure execution times using the built-in 'timeit' profiling module.
+*Logged at: 2026-06-02T18:48:46*
