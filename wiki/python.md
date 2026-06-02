@@ -674,3 +674,7 @@
 ### Today I Learned: Python
 > Measure execution times using the built-in 'timeit' profiling module.
 *Logged at: 2026-06-02T18:48:46*
+
+### Today I Learned: Python
+> Get index and value simultaneously in loops using 'for idx, val in enumerate(items)'.
+*Logged at: 2026-06-02T18:01:23*
