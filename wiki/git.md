@@ -638,3 +638,7 @@
 ### Today I Learned: Git
 > Reset working tree and index to a clean state using 'git reset --hard HEAD'.
 *Logged at: 2026-06-02T16:34:34*
+
+### Today I Learned: Git
+> Temporarily save untracked or modified files using 'git stash -u'.
+*Logged at: 2026-06-02T12:23:41*
