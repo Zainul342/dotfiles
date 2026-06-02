@@ -690,3 +690,7 @@
 ### Today I Learned: Python
 > Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
 *Logged at: 2026-06-02T16:26:39*
+
+### Today I Learned: Python
+> Use list comprehensions '[x for x in items if condition]' for concise list creation.
+*Logged at: 2026-06-02T15:46:03*
