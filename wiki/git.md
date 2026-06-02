@@ -626,3 +626,7 @@
 ### Today I Learned: Git
 > Show who modified each line of a file using 'git blame filename'.
 *Logged at: 2026-06-02T21:01:11*
+
+### Today I Learned: Git
+> See staged changes before committing using 'git diff --staged'.
+*Logged at: 2026-06-02T20:14:11*
