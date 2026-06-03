@@ -674,3 +674,7 @@
 ### Today I Learned: Git
 > Modify your last commit message using 'git commit --amend -m "new message"'.
 *Logged at: 2026-06-03T15:47:24*
+
+### Today I Learned: Git
+> Show who modified each line of a file using 'git blame filename'.
+*Logged at: 2026-06-03T15:48:21*
