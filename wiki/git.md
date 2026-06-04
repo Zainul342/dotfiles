@@ -690,3 +690,7 @@
 ### Today I Learned: Git
 > Show who modified each line of a file using 'git blame filename'.
 *Logged at: 2026-06-04T14:01:19*
+
+### Today I Learned: Git
+> Recover lost commits or branch states using the reference log with 'git reflog'.
+*Logged at: 2026-06-04T16:03:19*
