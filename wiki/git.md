@@ -694,3 +694,7 @@
 ### Today I Learned: Git
 > Recover lost commits or branch states using the reference log with 'git reflog'.
 *Logged at: 2026-06-04T16:03:19*
+
+### Today I Learned: Git
+> See staged changes before committing using 'git diff --staged'.
+*Logged at: 2026-06-04T14:42:07*
