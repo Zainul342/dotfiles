@@ -702,3 +702,7 @@
 ### Today I Learned: Git
 > Show who modified each line of a file using 'git blame filename'.
 *Logged at: 2026-06-04T14:44:52*
+
+### Today I Learned: Git
+> Modify your last commit message using 'git commit --amend -m "new message"'.
+*Logged at: 2026-06-04T20:42:54*
