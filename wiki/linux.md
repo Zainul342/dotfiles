@@ -794,3 +794,7 @@
 ### Today I Learned: Linux
 > Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
 *Logged at: 2026-06-05T19:52:08*
+
+### Today I Learned: Linux
+> Create an archive using 'tar -czvf archive.tar.gz directory/'.
+*Logged at: 2026-06-05T16:12:58*
