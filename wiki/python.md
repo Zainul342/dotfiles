@@ -778,3 +778,7 @@
 ### Today I Learned: Python
 > Use generator expressions '(x for x in large_range)' to save system memory.
 *Logged at: 2026-06-05T19:01:44*
+
+### Today I Learned: Python
+> Safely open files using context managers: 'with open(file) as f:'.
+*Logged at: 2026-06-05T15:50:49*
