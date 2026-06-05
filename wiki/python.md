@@ -774,3 +774,7 @@
 ### Today I Learned: Python
 > Read command-line arguments safely via the standard library 'sys.argv'.
 *Logged at: 2026-06-04T17:56:15*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-06-05T19:01:44*
