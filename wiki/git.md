@@ -714,3 +714,7 @@
 ### Today I Learned: Git
 > Temporarily save untracked or modified files using 'git stash -u'.
 *Logged at: 2026-06-05T19:45:53*
+
+### Today I Learned: Git
+> See staged changes before committing using 'git diff --staged'.
+*Logged at: 2026-06-05T16:21:30*
