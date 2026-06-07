@@ -822,3 +822,7 @@
 ### Today I Learned: Python
 > Measure execution times using the built-in 'timeit' profiling module.
 *Logged at: 2026-06-05T11:47:31*
+
+### Today I Learned: Python
+> Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
+*Logged at: 2026-06-07T18:31:52*
