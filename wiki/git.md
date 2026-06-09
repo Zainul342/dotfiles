@@ -798,3 +798,7 @@
 ### Today I Learned: Git
 > View a clean, single-line git history tree using 'git log --oneline --graph --all'.
 *Logged at: 2026-06-09T13:26:50*
+
+### Today I Learned: Git
+> List all tracked configurations and their origins using 'git config --list --show-origin'.
+*Logged at: 2026-06-09T12:20:00*
