@@ -842,3 +842,7 @@
 ### Today I Learned: Python
 > Safely open files using context managers: 'with open(file) as f:'.
 *Logged at: 2026-06-08T10:54:05*
+
+### Today I Learned: Python
+> Measure execution times using the built-in 'timeit' profiling module.
+*Logged at: 2026-06-09T17:55:28*
