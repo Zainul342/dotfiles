@@ -846,3 +846,7 @@
 ### Today I Learned: Python
 > Measure execution times using the built-in 'timeit' profiling module.
 *Logged at: 2026-06-09T17:55:28*
+
+### Today I Learned: Python
+> Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
+*Logged at: 2026-06-09T10:02:38*
