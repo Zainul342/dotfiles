@@ -786,3 +786,7 @@
 ### Today I Learned: Git
 > Modify your last commit message using 'git commit --amend -m "new message"'.
 *Logged at: 2026-06-09T10:43:30*
+
+### Today I Learned: Git
+> View a clean, single-line git history tree using 'git log --oneline --graph --all'.
+*Logged at: 2026-06-09T13:20:44*
