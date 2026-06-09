@@ -774,3 +774,7 @@
 ### Today I Learned: Git
 > Recover lost commits or branch states using the reference log with 'git reflog'.
 *Logged at: 2026-06-08T20:02:29*
+
+### Today I Learned: Git
+> Temporarily save untracked or modified files using 'git stash -u'.
+*Logged at: 2026-06-09T15:34:14*
