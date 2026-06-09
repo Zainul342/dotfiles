@@ -874,3 +874,7 @@
 ### Today I Learned: Python
 > Safely open files using context managers: 'with open(file) as f:'.
 *Logged at: 2026-06-09T16:53:16*
+
+### Today I Learned: Python
+> Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
+*Logged at: 2026-06-09T19:30:56*
