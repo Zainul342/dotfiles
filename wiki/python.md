@@ -858,3 +858,7 @@
 ### Today I Learned: Python
 > Get index and value simultaneously in loops using 'for idx, val in enumerate(items)'.
 *Logged at: 2026-06-09T11:15:42*
+
+### Today I Learned: Python
+> Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
+*Logged at: 2026-06-09T12:39:00*
