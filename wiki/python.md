@@ -854,3 +854,7 @@
 ### Today I Learned: Python
 > Combine multiple lists element-wise using 'zip(list1, list2)'.
 *Logged at: 2026-06-09T11:54:06*
+
+### Today I Learned: Python
+> Get index and value simultaneously in loops using 'for idx, val in enumerate(items)'.
+*Logged at: 2026-06-09T11:15:42*
