@@ -922,3 +922,7 @@
 ### Today I Learned: Python
 > Use generator expressions '(x for x in large_range)' to save system memory.
 *Logged at: 2026-06-10T15:23:48*
+
+### Today I Learned: Python
+> Use list comprehensions '[x for x in items if condition]' for concise list creation.
+*Logged at: 2026-06-10T17:31:20*
