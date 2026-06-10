@@ -894,3 +894,7 @@
 ### Today I Learned: Python
 > Combine multiple lists element-wise using 'zip(list1, list2)'.
 *Logged at: 2026-06-10T09:41:36*
+
+### Today I Learned: Python
+> Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
+*Logged at: 2026-06-10T20:54:38*
