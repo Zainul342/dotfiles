@@ -842,3 +842,7 @@
 ### Today I Learned: Git
 > View a clean, single-line git history tree using 'git log --oneline --graph --all'.
 *Logged at: 2026-06-10T12:31:41*
+
+### Today I Learned: Git
+> See staged changes before committing using 'git diff --staged'.
+*Logged at: 2026-06-10T15:01:44*
