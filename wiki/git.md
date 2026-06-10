@@ -822,3 +822,7 @@
 ### Today I Learned: Git
 > List all tracked configurations and their origins using 'git config --list --show-origin'.
 *Logged at: 2026-06-10T14:33:52*
+
+### Today I Learned: Git
+> Reset working tree and index to a clean state using 'git reset --hard HEAD'.
+*Logged at: 2026-06-10T10:09:00*
