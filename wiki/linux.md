@@ -890,3 +890,7 @@
 ### Today I Learned: Linux
 > Check systemd user services logs using 'journalctl --user -u service-name.service'.
 *Logged at: 2026-06-11T19:21:04*
+
+### Today I Learned: Linux
+> Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
+*Logged at: 2026-06-11T21:30:21*
