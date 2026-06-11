@@ -878,3 +878,7 @@
 ### Today I Learned: Git
 > Recover lost commits or branch states using the reference log with 'git reflog'.
 *Logged at: 2026-06-11T09:55:51*
+
+### Today I Learned: Git
+> List all tracked configurations and their origins using 'git config --list --show-origin'.
+*Logged at: 2026-06-11T14:59:05*
