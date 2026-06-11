@@ -858,3 +858,7 @@
 ### Today I Learned: Git
 > View a clean, single-line git history tree using 'git log --oneline --graph --all'.
 *Logged at: 2026-06-10T19:12:21*
+
+### Today I Learned: Git
+> Force-push safely with lease validation using 'git push --force-with-lease'.
+*Logged at: 2026-06-11T18:58:00*
