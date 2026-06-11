@@ -866,3 +866,7 @@
 ### Today I Learned: Git
 > Recover lost commits or branch states using the reference log with 'git reflog'.
 *Logged at: 2026-06-11T15:32:56*
+
+### Today I Learned: Git
+> Remove untracked directories and files cleanly using 'git clean -fd'.
+*Logged at: 2026-06-11T18:37:24*
