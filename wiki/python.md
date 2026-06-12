@@ -990,3 +990,7 @@
 ### Today I Learned: Python
 > Use generator expressions '(x for x in large_range)' to save system memory.
 *Logged at: 2026-06-12T10:13:04*
+
+### Today I Learned: Python
+> Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
+*Logged at: 2026-06-12T20:28:12*
