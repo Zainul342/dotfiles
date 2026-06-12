@@ -926,3 +926,7 @@
 ### Today I Learned: Linux
 > Search files efficiently using 'grep -rnI "search_term" directory/'.
 *Logged at: 2026-06-12T09:32:52*
+
+### Today I Learned: Linux
+> Use 'setsid command' to detach a process from the controlling terminal session.
+*Logged at: 2026-06-12T10:05:41*
