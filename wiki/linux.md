@@ -962,3 +962,7 @@
 ### Today I Learned: Linux
 > Use 'rsync -avz --progress source/ destination/' for efficient file synchronization.
 *Logged at: 2026-06-15T12:08:20*
+
+### Today I Learned: Linux
+> Search files efficiently using 'grep -rnI "search_term" directory/'.
+*Logged at: 2026-06-15T16:21:28*
