@@ -994,3 +994,7 @@
 ### Today I Learned: Python
 > Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
 *Logged at: 2026-06-12T20:28:12*
+
+### Today I Learned: Python
+> Combine multiple lists element-wise using 'zip(list1, list2)'.
+*Logged at: 2026-06-15T21:52:13*
