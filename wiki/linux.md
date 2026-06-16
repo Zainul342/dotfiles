@@ -990,3 +990,7 @@
 ### Today I Learned: Linux
 > Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
 *Logged at: 2026-06-16T13:42:48*
+
+### Today I Learned: Linux
+> Use 'setsid command' to detach a process from the controlling terminal session.
+*Logged at: 2026-06-16T09:58:52*
