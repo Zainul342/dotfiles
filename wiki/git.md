@@ -970,3 +970,7 @@
 ### Today I Learned: Git
 > List all tracked configurations and their origins using 'git config --list --show-origin'.
 *Logged at: 2026-06-16T13:23:11*
+
+### Today I Learned: Git
+> Force-push safely with lease validation using 'git push --force-with-lease'.
+*Logged at: 2026-06-16T16:06:47*
