@@ -978,3 +978,7 @@
 ### Today I Learned: Git
 > List all tracked configurations and their origins using 'git config --list --show-origin'.
 *Logged at: 2026-06-16T11:45:37*
+
+### Today I Learned: Git
+> Modify your last commit message using 'git commit --amend -m "new message"'.
+*Logged at: 2026-06-16T19:50:55*
