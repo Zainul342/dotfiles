@@ -1050,3 +1050,7 @@
 ### Today I Learned: Python
 > Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
 *Logged at: 2026-06-16T13:42:54*
+
+### Today I Learned: Python
+> Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
+*Logged at: 2026-06-16T17:40:37*
