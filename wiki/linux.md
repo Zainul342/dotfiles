@@ -998,3 +998,7 @@
 ### Today I Learned: Linux
 > Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
 *Logged at: 2026-06-16T10:50:06*
+
+### Today I Learned: Linux
+> Update the Fontconfig font cache using 'fc-cache -f -v'.
+*Logged at: 2026-06-16T10:09:10*
