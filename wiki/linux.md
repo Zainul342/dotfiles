@@ -994,3 +994,7 @@
 ### Today I Learned: Linux
 > Use 'setsid command' to detach a process from the controlling terminal session.
 *Logged at: 2026-06-16T09:58:52*
+
+### Today I Learned: Linux
+> Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
+*Logged at: 2026-06-16T10:50:06*
