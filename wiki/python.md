@@ -1054,3 +1054,7 @@
 ### Today I Learned: Python
 > Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
 *Logged at: 2026-06-16T17:40:37*
+
+### Today I Learned: Python
+> Get index and value simultaneously in loops using 'for idx, val in enumerate(items)'.
+*Logged at: 2026-06-16T13:07:59*
