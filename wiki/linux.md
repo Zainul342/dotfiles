@@ -1030,3 +1030,7 @@
 ### Today I Learned: Linux
 > Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
 *Logged at: 2026-06-17T11:12:29*
+
+### Today I Learned: Linux
+> Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
+*Logged at: 2026-06-17T10:07:34*
