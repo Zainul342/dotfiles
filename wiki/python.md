@@ -1110,3 +1110,7 @@
 ### Today I Learned: Python
 > Read command-line arguments safely via the standard library 'sys.argv'.
 *Logged at: 2026-06-17T14:21:28*
+
+### Today I Learned: Python
+> Measure execution times using the built-in 'timeit' profiling module.
+*Logged at: 2026-06-17T16:28:36*
