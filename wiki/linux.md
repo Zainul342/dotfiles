@@ -1102,3 +1102,7 @@
 ### Today I Learned: Linux
 > Search files efficiently using 'grep -rnI "search_term" directory/'.
 *Logged at: 2026-06-19T20:24:14*
+
+### Today I Learned: Linux
+> Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
+*Logged at: 2026-06-19T20:54:18*
