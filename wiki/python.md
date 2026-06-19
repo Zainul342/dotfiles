@@ -1154,3 +1154,7 @@
 ### Today I Learned: Python
 > Use generator expressions '(x for x in large_range)' to save system memory.
 *Logged at: 2026-06-19T09:12:40*
+
+### Today I Learned: Python
+> Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
+*Logged at: 2026-06-19T10:59:29*
