@@ -1054,3 +1054,7 @@
 ### Today I Learned: Git
 > Recover lost commits or branch states using the reference log with 'git reflog'.
 *Logged at: 2026-06-19T14:48:41*
+
+### Today I Learned: Git
+> Force-push safely with lease validation using 'git push --force-with-lease'.
+*Logged at: 2026-06-19T19:13:34*
