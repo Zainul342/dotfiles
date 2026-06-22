@@ -1146,3 +1146,7 @@
 ### Today I Learned: Linux
 > Redirect stdin from /dev/null ('< /dev/null') to prevent background processes from terminating on PTY EOF.
 *Logged at: 2026-06-22T18:11:23*
+
+### Today I Learned: Linux
+> Update the Fontconfig font cache using 'fc-cache -f -v'.
+*Logged at: 2026-06-22T16:23:27*
