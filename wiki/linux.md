@@ -1166,3 +1166,7 @@
 ### Today I Learned: Linux
 > Run 'pkill -9 -f process-pattern' to force kill processes matching a pattern description.
 *Logged at: 2026-06-22T17:57:04*
+
+### Today I Learned: Linux
+> Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
+*Logged at: 2026-06-22T16:09:45*
