@@ -1130,3 +1130,7 @@
 ### Today I Learned: Git
 > Modify your last commit message using 'git commit --amend -m "new message"'.
 *Logged at: 2026-06-23T15:21:57*
+
+### Today I Learned: Git
+> Temporarily save untracked or modified files using 'git stash -u'.
+*Logged at: 2026-06-23T19:36:54*
