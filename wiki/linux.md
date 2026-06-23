@@ -1218,3 +1218,7 @@
 ### Today I Learned: Linux
 > Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
 *Logged at: 2026-06-23T17:26:09*
+
+### Today I Learned: Linux
+> Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
+*Logged at: 2026-06-23T12:16:06*
