@@ -1150,3 +1150,7 @@
 ### Today I Learned: Git
 > Recover lost commits or branch states using the reference log with 'git reflog'.
 *Logged at: 2026-06-24T12:45:32*
+
+### Today I Learned: Git
+> View a clean, single-line git history tree using 'git log --oneline --graph --all'.
+*Logged at: 2026-06-24T20:58:38*
