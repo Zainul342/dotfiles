@@ -1226,3 +1226,7 @@
 ### Today I Learned: Linux
 > Check systemd user services logs using 'journalctl --user -u service-name.service'.
 *Logged at: 2026-06-24T20:49:32*
+
+### Today I Learned: Linux
+> Search files efficiently using 'grep -rnI "search_term" directory/'.
+*Logged at: 2026-06-24T21:38:17*
