@@ -1,54 +1,22 @@
 # Zain-Zen Dotfiles
 
-A premium, aesthetic, and highly optimized Linux configuration setup featuring **Catppuccin Mocha** colors, custom keyboard workflows, and lightweight tools. 
+My personal config files for EndeavourOS + bspwm, themed around Catppuccin Mocha.
 
-Designed for **EndeavourOS** running **bspwm** and configured for maximum developer productivity.
+## Details
+- **WM**: bspwm
+- **Terminal**: Ghostty
+- **Shell**: zsh (with starship & fzf-tab)
+- **Editor**: Neovim (Kickstart base config)
+- **App Launcher**: Rofi
 
----
+## Key Features
+- **Translator Popup (`super + t`)**: A custom script (`rofi-translate`) that opens a Rofi box, takes Indonesian input, translates it to English via curl in ~150ms, and pastes it into your focused terminal. Great for prompting AI tools in English without wasting tokens on bilingual context.
 
-## 🎨 Setup Details
-* **OS**: EndeavourOS
-* **WM**: bspwm
-* **Theme**: Catppuccin Mocha (Zain-Zen Variant)
-* **Shell**: zsh (customized with starship and fzf-tab)
-* **Terminal**: Ghostty
-* **Editor**: Neovim (Kickstart base configuration)
-* **File Manager**: Yazi
-* **App Launcher**: Rofi
-
----
-
-## 🚀 Key Workflows Included
-- **Global Translation Shortcut (`super + t`)**: Opens a Rofi prompt, lets you type in Indonesian, translates to English using a direct API query (~170ms), and:
-  - **`Enter`**: Auto-pastes it directly into your active window/terminal (saves tokens for LLM chat agents).
-  - **`Shift + Enter`**: Copies it to your clipboard only.
-
----
-
-## 📦 What's Managed
-This repository contains configuration directories for:
-- `.config/bspwm` (Window manager settings + `sxhkd` keybindings)
-- `.config/ghostty` (Terminal emulator settings)
-- `.config/nvim` (Neovim editor configurations)
-- `.zshrc` (Shell integrations and aliases)
-
----
-
-## 🛠️ Installation
-
-> [!WARNING]
-> Running the installer will automatically backup any existing configuration files at `~/.config/...` to `~/.config/...bak` to ensure you do not lose your original settings.
-
-Clone the repository and run the self-contained installation script:
+## Installation
+The repository includes a simple linking script that backups your existing configurations to `*.bak` and creates symbolic links to this directory:
 
 ```bash
 git clone https://github.com/Zainul342/dotfiles.git ~/dotfiles
 cd ~/dotfiles
-chmod +x install.sh
 ./install.sh
 ```
-
----
-
-## ⚖️ License
-Licensed under the [MIT License](LICENSE).
