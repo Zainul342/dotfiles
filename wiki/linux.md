@@ -1246,3 +1246,7 @@
 ### Today I Learned: Linux
 > Use 'setsid command' to detach a process from the controlling terminal session.
 *Logged at: 2026-06-25T18:10:14*
+
+### Today I Learned: Linux
+> Check systemd user services logs using 'journalctl --user -u service-name.service'.
+*Logged at: 2026-06-25T20:11:28*
