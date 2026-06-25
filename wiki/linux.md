@@ -1250,3 +1250,7 @@
 ### Today I Learned: Linux
 > Check systemd user services logs using 'journalctl --user -u service-name.service'.
 *Logged at: 2026-06-25T20:11:28*
+
+### Today I Learned: Linux
+> Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
+*Logged at: 2026-06-25T12:20:20*
