@@ -1250,3 +1250,7 @@
 ### Today I Learned: Python
 > Convert objects to JSON strings using the built-in 'json.dumps(obj)'.
 *Logged at: 2026-06-25T12:07:24*
+
+### Today I Learned: Python
+> Safely open files using context managers: 'with open(file) as f:'.
+*Logged at: 2026-06-25T11:38:14*
