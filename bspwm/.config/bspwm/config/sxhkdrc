@@ -1,0 +1,221 @@
+# =============================================================
+# Zain-Zen FINAL Master SXHKD Config
+# 100% SINKRON DENGAN SCREENSHOT CHEATSHEET
+# =============================================================
+
+# --- Bspwm ---
+alt + F1
+	~/.config/bspwm/bin/OpenApps --KeyHelp
+
+super + alt + r
+	bspc wm -r
+
+super + Escape
+	pkill -USR1 -x sxhkd; dunstify -u low -i ~/.config/bspwm/config/assets/reload.svg 'sxhkd' 'System Synced!'
+
+# --- Base System ---
+super + Return
+	~/.config/bspwm/bin/OpenApps --terminal
+
+super + alt + Return
+	~/.config/bspwm/bin/OpenApps --floating
+
+super + space
+	~/.config/bspwm/bin/OpenApps --menu
+
+alt + space
+	~/.config/bspwm/bin/RiceSelector
+
+super + r
+	~/.config/bspwm/bin/RiceEditor
+
+super + alt + w
+	~/.config/bspwm/bin/WallSelect
+
+super + alt + t
+	~/.config/bspwm/bin/Term --selecterm
+
+# --- Workspaces ---
+super + {Left,Right}
+	bspc desktop -f {prev,next}.local
+
+super + {1-9,0}
+	bspc desktop -f '^{1-9,10}'
+
+ctrl + Tab
+	bspc desktop -f last
+
+super + ctrl + {1-9,0}
+	bspc node -d '^{1-9,10}' --follow
+
+super + ctrl + {Left,Right}
+	bspc node -d {prev,next}.local --follow
+
+# --- Preselection ---
+super + ctrl + {h,v}
+	bspc node -p {west,south}
+
+super + ctrl + q
+	bspc node -p cancel
+
+# --- Nodes ---
+super + x
+	bspc node -c
+
+super + shift + x
+	bspc node -k
+
+super + ctrl + x
+	for node in $(bspc query -N -n .window.local); do bspc node $node -c; done
+
+alt + a
+	bspc node -t floating
+
+alt + shift + t
+	bspc node -t pseudo_tiled
+
+alt + t
+	bspc node -t tiled
+
+alt + f
+	bspc node -t fullscreen
+
+alt + m
+	bspc node -g marked
+
+alt + x
+	bspc node -g locked
+
+alt + s
+	bspc node -g sticky
+
+alt + p
+	bspc node -g private
+
+alt + h
+	~/.config/bspwm/bin/HideNode --hide
+
+ctrl + alt + h
+	~/.config/bspwm/bin/HideNode --unhide
+
+super + alt + {Left,Down,Up,Right}
+	bspc node -f {west,south,north,east}
+
+ctrl + alt + {Left,Down,Up,Right}
+	bspc node -s {west,south,north,east}
+
+ctrl + shift + {Left,Down,Up,Right}
+	bspc node -f last
+
+alt + Tab
+	~/.config/bspwm/bin/Bspwm-ScratchPad --cycle
+
+# --- Move/Resize ---
+super + ctrl + b
+	bspc node -s biggest.local
+
+super + alt + {equal,minus}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+super + ctrl + {equal,minus}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+
+super + shift + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+# --- Dotfiles Apps ---
+super + alt + n
+	~/.config/bspwm/bin/OpenApps --netmanager
+
+super + alt + s
+	~/.config/bspwm/bin/OpenApps --screenshot
+
+super + alt + b
+	~/.config/bspwm/bin/OpenApps --bluetooth
+
+super + alt + c
+	copyq toggle
+
+super + alt + a
+	~/.config/bspwm/bin/AndroidMount
+
+super + alt + p
+	~/.config/bspwm/bin/OpenApps --powermenu
+
+super + alt + l
+	~/.config/bspwm/bin/RofiLauncher --choose-style
+
+super + alt + k
+	~/.config/bspwm/bin/OpenApps --keyboard
+
+super + alt + x
+	~/.config/bspwm/bin/RofiPass
+
+# --- Apps ---
+super + b
+	~/.config/bspwm/bin/OpenApps --browser
+
+super + f
+	~/.config/bspwm/bin/OpenApps --filemanager
+
+super + e
+	~/.config/bspwm/bin/OpenApps --editor
+
+super + y
+	~/.config/bspwm/bin/OpenApps --yazi
+
+super + v
+	~/.config/bspwm/bin/OpenApps --nvim
+
+super + m
+	~/.config/bspwm/bin/Term --music
+
+super + p
+	~/.config/bspwm/bin/OpenApps --soundcontrol
+
+# --- Power ---
+ctrl + super + alt + p
+	shutdown now
+
+ctrl + super + alt + r
+	reboot
+
+ctrl + super + alt + s
+	~/.config/bspwm/bin/SoftReload
+
+ctrl + super + alt + q
+	bspc quit
+
+ctrl + super + alt + l
+	~/.config/bspwm/bin/ScreenLocker
+
+ctrl + super + alt + k
+	kill -9 -1
+
+# --- Others ---
+super + alt + o
+	~/.config/bspwm/bin/Bspwm-ScratchPad --terminal
+
+super + alt + {h,u}
+	~/.config/bspwm/bin/HideBar {--hide,--unhide}
+
+ctrl + alt + {equal,minus}
+	~/.config/bspwm/bin/Brightness {up,down}
+
+# Media Keys
+XF86MonBrightness{Up,Down}
+	~/.config/bspwm/bin/Brightness {up,down}
+
+# Tambahan shortcut untuk user
+super + F11
+	~/.config/bspwm/bin/Brightness down
+
+super + F12
+	~/.config/bspwm/bin/Brightness up
+
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+	~/.config/bspwm/bin/Volume {--inc,--dec,--toggle}
+
+# Global translator to clipboard
+super + t
+	/home/zainm/.local/bin/rofi-translate

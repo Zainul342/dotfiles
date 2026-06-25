@@ -1,0 +1,33 @@
+#!/bin/sh
+# =============================================================
+# Zain-Zen FINAL Master OpenApps Script
+# Optimized for Ghostty, Nvim, Yazi, Flameshot, and Greenclip
+# =============================================================
+
+# Ensure bspwm bin is in PATH
+export PATH="$HOME/.config/bspwm/bin:$PATH"
+
+WIDGET_DIR="$HOME/.config/bspwm/eww"
+ROFI_THEMES="$HOME/.config/bspwm/config/rofi-themes"
+
+case "$1" in
+    --menu)         RofiLauncher --launcher ;;
+    --rice)         RiceSelector ;;
+    --terminal)     Term --terminal ;;
+    --floating)     Term --floating ;;
+    --clipboard)    copyq toggle ;;
+    --screenshot)   ScreenShoTer ;;
+    --powermenu)    PowerMenu ;;
+    --netmanager)   nm-connection-editor ;;
+    --bluetooth)    blueman-manager ;;
+    --keyboard)     rofi -show drun -theme "$ROFI_THEMES/Keyboard.rasi" ;;
+    --browser)      brave ;;
+    --filemanager)  thunar ;;
+    --editor)       ghostty -e nvim ;;
+    --yazi)         ghostty -e yazi ;;
+    --nvim)         ghostty -e nvim ;;
+    --soundcontrol) pavucontrol ;;
+    --scratch)      ghostty --class=FloaTerm ;;
+    --KeyHelp)      eww -c "$WIDGET_DIR" open --toggle csheet ;;
+    *)              echo "Invalid Option" ;;
+esac

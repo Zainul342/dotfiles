@@ -1,0 +1,100 @@
+#!/bin/sh
+# =============================================================
+# ScreenShoTer - KDE Spectacle Style (Minimalist)
+# =============================================================
+
+# Temporary and Final Locations
+temp_file="/tmp/capture_$(date +%s).png"
+final_dir="$(xdg-user-dir PICTURES)/ScreenShots"
+[ -d "$final_dir" ] || mkdir -p "$final_dir"
+
+# Rofi icons/labels
+s_full="  Full Screen"
+s_select="  Select Area"
+s_all="󰍹  All Monitors"
+
+# Action labels
+a_copy="📋 Copy to Clipboard"
+a_save="💾 Save to Pictures"
+a_both="✨ Both (Save & Copy)"
+
+get_current_monitor() {
+    MONITORS=$(xrandr | grep -o '[0-9]*x[0-9]*[+-][0-9]*[+-][0-9]*')
+    XMOUSE=$(xdotool getmouselocation | awk -F "[: ]" '{print $2}')
+    YMOUSE=$(xdotool getmouselocation | awk -F "[: ]" '{print $4}')
+
+    for mon in ${MONITORS}; do
+        MONW=$(echo ${mon} | awk -F "[x+]" '{print $1}')
+        MONH=$(echo ${mon} | awk -F "[x+]" '{print $2}')
+        MONX=$(echo ${mon} | awk -F "[x+]" '{print $3}')
+        MONY=$(echo ${mon} | awk -F "[x+]" '{print $4}')
+
+        if [ "$XMOUSE" -ge "$MONX" ] && \
+           [ "$XMOUSE" -le $((MONX + MONW)) ] && \
+           [ "$YMOUSE" -ge "$MONY" ] && \
+           [ "$YMOUSE" -le $((MONY + MONH)) ]; then
+                echo "${MONW}x${MONH}+${MONX}+${MONY}"
+                return 0
+        fi
+    done
+    return 1
+}
+
+rofi_cmd() {
+    rofi -dmenu \
+        -p "Screenshot" \
+        -markup-rows \
+        -theme "$HOME"/.config/bspwm/config/rofi-themes/Screenshot.rasi
+}
+
+# 1. Select Mode
+choice=$(printf "%s\n%s\n%s" "$s_full" "$s_select" "$s_all" | rofi_cmd)
+
+case "$choice" in
+    "$s_full")
+        geometry=$(get_current_monitor)
+        if [ -z "$geometry" ]; then
+            maim -u -d 1 "$temp_file"
+        else
+            maim -u -d 1 -g "$geometry" "$temp_file"
+        fi
+        ;;
+    "$s_select")
+        maim -u -d 1 -s -o -c 0.467,0.239,0.863,0.15 -l "$temp_file"
+        ;;
+    "$s_all")
+        maim -u -d 1 "$temp_file"
+        ;;
+    *) exit 1 ;;
+esac
+
+# 2. If capture success, select action
+if [ -f "$temp_file" ]; then
+    paplay /usr/share/sounds/freedesktop/stereo/screen-capture.oga > /dev/null 2>&1
+    
+    action=$(printf "%s\n%s\n%s" "$a_copy" "$a_save" "$a_both" | rofi -dmenu -p "Action" -theme "$HOME"/.config/bspwm/config/rofi-themes/Screenshot.rasi)
+    
+    case "$action" in
+        "$a_copy")
+            xclip -selection clipboard -t image/png -i "$temp_file"
+            dunstify -r 699 "Screenshot" "Copied to Clipboard"
+            rm "$temp_file"
+            ;;
+        "$a_save")
+            final_path="$final_dir/Shot-$(date +%Y%m%d-%H%M%S).png"
+            mv "$temp_file" "$final_path"
+            dunstify -r 699 "Screenshot" "Saved to $final_path"
+            ;;
+        "$a_both")
+            xclip -selection clipboard -t image/png -i "$temp_file"
+            final_path="$final_dir/Shot-$(date +%Y%m%d-%H%M%S).png"
+            cp "$temp_file" "$final_path"
+            rm "$temp_file"
+            dunstify -r 699 "Screenshot" "Saved & Copied"
+            ;;
+        *)
+            rm "$temp_file"
+            dunstify -r 699 "Screenshot" "Canceled"
+            ;;
+    esac
+fi

@@ -1,0 +1,22 @@
+#!/bin/sh
+# Zain-Zen Lightweight Cheatsheet
+echo "  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "  🚀 ZAIN-ZEN KEYBINDINGS QUICK REFERENCE"
+echo "  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "  [ BASE SYSTEM ]              [ NODES ]"
+echo "  Super + Return  : Terminal   Super + x       : Close Node"
+echo "  Super + space   : Apps Menu  Super + Shift+x : Kill Node"
+echo "  Alt + space     : Themes     Alt + f         : Fullscreen"
+echo "                               Alt + a         : Floating"
+echo ""
+echo "  [ WORKSPACES ]               [ MOVE / RESIZE ]"
+echo "  Super + 1-9     : Switch     Super + Alt + =/- : Resize"
+echo "  Super + Left/Right: Cycle    Super + Ctrl+ =/- : Zoom"
+echo ""
+echo "  [ APPS ]                     [ POWER ]"
+echo "  Super + b       : Browser    Ctrl+Super+Alt+p : Shutdown"
+echo "  Super + f       : Files      Ctrl+Super+Alt+r : Reboot"
+echo "  Super + e       : Editor     Ctrl+Super+Alt+s : Soft Reload"
+echo "  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "  ( Tekan sembarang tombol untuk menutup )"
+read -n 1
