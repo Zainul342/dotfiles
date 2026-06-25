@@ -1254,3 +1254,7 @@
 ### Today I Learned: Python
 > Safely open files using context managers: 'with open(file) as f:'.
 *Logged at: 2026-06-25T11:38:14*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-06-25T13:11:20*
