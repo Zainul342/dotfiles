@@ -1270,3 +1270,7 @@
 ### Today I Learned: Linux
 > Create an archive using 'tar -czvf archive.tar.gz directory/'.
 *Logged at: 2026-06-25T09:58:49*
+
+### Today I Learned: Linux
+> Use 'rsync -avz --progress source/ destination/' for efficient file synchronization.
+*Logged at: 2026-06-25T11:04:33*
