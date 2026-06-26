@@ -1318,3 +1318,7 @@
 ### Today I Learned: Python
 > Use list comprehensions '[x for x in items if condition]' for concise list creation.
 *Logged at: 2026-06-26T18:39:32*
+
+### Today I Learned: Python
+> Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
+*Logged at: 2026-06-26T09:57:08*
