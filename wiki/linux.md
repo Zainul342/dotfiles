@@ -1282,3 +1282,7 @@
 ### Today I Learned: Linux
 > Use 'pgrep -fl process-name' to find PIDs along with their full command line descriptions.
 *Logged at: 2026-06-26T15:08:03*
+
+### Today I Learned: Linux
+> Search files efficiently using 'grep -rnI "search_term" directory/'.
+*Logged at: 2026-06-26T14:35:38*
