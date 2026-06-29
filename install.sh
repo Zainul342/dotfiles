@@ -34,5 +34,6 @@ link_file "$DOTFILES_DIR/nvim/.config/nvim" "$HOME/.config/nvim"
 link_file "$DOTFILES_DIR/bspwm/.config/bspwm" "$HOME/.config/bspwm"
 link_file "$DOTFILES_DIR/copyq/.config/copyq/copyq.conf" "$HOME/.config/copyq/copyq.conf"
 link_file "$DOTFILES_DIR/copyq/.config/copyq/copyq-commands.ini" "$HOME/.config/copyq/copyq-commands.ini"
+link_file "$DOTFILES_DIR/fontconfig/.config/fontconfig/fonts.conf" "$HOME/.config/fontconfig/fonts.conf"
 
 echo "✨ Dotfiles setup completed successfully!"
