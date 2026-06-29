@@ -39,7 +39,7 @@ FOCUSED_BC="#4c566a"	# Focused border color
 
 # Terminal font & size
 term_font_size="10"
-term_font_name="JetBrainsMono Nerd Font"
+term_font_name="SFMono Nerd Font Mono"
 
 # Picom options
 P_FADE="true"			# Fade true|false
@@ -55,7 +55,7 @@ dunst_offset='(20, 30)'
 dunst_origin='top-left'
 dunst_transparency='5'
 dunst_corner_radius='6'
-dunst_font='JetBrainsMono NF Medium 9'
+dunst_font='SFMono Nerd Font Mono Medium 9'
 dunst_border='0'
 dunst_frame_color="$blue"
 dunst_icon_theme="Vimix-White"
@@ -106,5 +106,5 @@ geany_theme="z0mbi3-Nord"
 ENGINE="Default"
 
 CUSTOM_DIR="/path/to/your/wallpapers/directory"
-DEFAULT_WALL="/home/zainm/.config/bspwm/rices/melissa/walls/wall-03.webp"
+DEFAULT_WALL="/home/zainm/.config/bspwm/rices/melissa/walls/wall-08.webp"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"

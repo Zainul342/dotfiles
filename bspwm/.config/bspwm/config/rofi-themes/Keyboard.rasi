@@ -77,7 +77,7 @@ element {
 }
 
 element-text {
-    font:                        "JetbrainsMono NF Bold 12";
+    font:                        "SFMono Nerd Font Mono Bold 12";
     background-color:            transparent;
     text-color:                  inherit;
     cursor:                      inherit;

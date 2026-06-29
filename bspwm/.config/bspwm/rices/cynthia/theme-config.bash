@@ -39,7 +39,7 @@ FOCUSED_BC="#938AA9"	# Focused border color
 
 # Terminal font & size
 term_font_size="10"
-term_font_name="JetBrainsMono Nerd Font"
+term_font_name="SFMono Nerd Font Mono"
 
 # Picom options
 P_FADE="true"			# Fade true|false
@@ -55,7 +55,7 @@ dunst_offset='(20, 60)'
 dunst_origin='bottom-right'
 dunst_transparency='5'
 dunst_corner_radius='0'
-dunst_font='JetBrainsMono NF Medium 9'
+dunst_font='SFMono Nerd Font Mono Medium 9'
 dunst_border='0'
 dunst_frame_color="$green"
 dunst_icon_theme="Gruvbox-Plus-Dark"

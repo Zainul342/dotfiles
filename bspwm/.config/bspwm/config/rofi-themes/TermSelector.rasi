@@ -77,7 +77,7 @@ element-icon {
 element-text {
     vertical-align:              0.5;
     horizontal-align:            0.5;
-    font:                        "JetBrainsMono NF Bold 11";
+    font:                        "SFMono Nerd Font Mono Bold 11";
     margin:                      5px;
     cursor:                      inherit;
     background-color:            transparent;

@@ -40,7 +40,7 @@ textbox-prompt-colon {
     enabled:                     true;
     expand:                      false;
     str:                         "";
-    font:                        "JetBrainsMono NF Bold 13";
+    font:                        "SFMono Nerd Font Mono Bold 13";
     padding:                     4px 10px 0 5px;
     text-color:                  @selected;
     background-color:            transparent;

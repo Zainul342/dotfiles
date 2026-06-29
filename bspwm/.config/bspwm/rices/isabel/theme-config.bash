@@ -39,7 +39,7 @@ FOCUSED_BC="#7560d3"	# Focused border color
 
 # Terminal font & size
 term_font_size="10"
-term_font_name="JetBrainsMono Nerd Font"
+term_font_name="SFMono Nerd Font Mono"
 
 # Picom options
 P_FADE="true"			# Fade true|false
@@ -106,5 +106,5 @@ geany_theme="z0mbi3-OneDark"
 ENGINE="Default"
 
 CUSTOM_DIR="/path/to/your/wallpapers/directory"
-DEFAULT_WALL="/home/zainm/.config/bspwm/rices/isabel/walls/wall-06.webp"
+DEFAULT_WALL="/home/zainm/.config/bspwm/rices/isabel/walls/wall-03.webp"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"

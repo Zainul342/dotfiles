@@ -171,3 +171,6 @@ export NVM_DIR="$HOME/.nvm"
 
 # Added by Antigravity CLI installer
 export PATH="/home/zainm/.local/bin:$PATH"
+
+# Java Development Kit (JDK) Configuration
+export JAVA_HOME="/usr/lib/jvm/default"

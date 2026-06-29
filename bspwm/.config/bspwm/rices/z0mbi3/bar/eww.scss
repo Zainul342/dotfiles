@@ -64,7 +64,7 @@ $archlogo: #0f94d2;
 	background-color: $background;
 
 	>menuitem {
-    font-family: JetBrainsMono NF;
+    font-family: SFMono Nerd Font Mono;
     font-size: 14px;
 		padding: 2px 5px;
     color: $foreground;
@@ -104,7 +104,7 @@ $archlogo: #0f94d2;
 }
 
 .bar-updates-text {
-  font-family: "JetBrainsMono NF";
+  font-family: "SFMono Nerd Font Mono";
   font-size: 14px;
   font-weight: Bold;
   color: #8ea6c4;
@@ -127,7 +127,7 @@ scale trough {
 
 // Clock
 .time {
-  font-family: JetBrainsMono NF;
+  font-family: SFMono Nerd Font Mono;
   font-weight: bold;
   font-size: 1.2em;
   background-color: $black;

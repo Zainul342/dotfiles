@@ -61,7 +61,7 @@ inputbar {
 
 textbox-prompt-colon {
     enabled:                     true;
-    font:                        "JetBrains Mono Nerd Font 9";
+    font:                        "SFMono Nerd Font Mono 9";
     expand:                      false;
     str:                         "";
     padding:                     10px 16px 10px 12px;

@@ -39,7 +39,7 @@ FOCUSED_BC="#93cee9"	# Focused border color
 
 # Terminal font & size
 term_font_size="10"
-term_font_name="JetBrainsMono Nerd Font"
+term_font_name="SFMono Nerd Font Mono"
 
 # Picom options
 P_FADE="true"			# Fade true|false
@@ -55,7 +55,7 @@ dunst_offset='(0, 20)'
 dunst_origin='top-center'
 dunst_transparency='0'
 dunst_corner_radius='6'
-dunst_font='JetBrainsMono NF Medium 9'
+dunst_font='SFMono Nerd Font Mono Medium 9'
 dunst_border='0'
 dunst_frame_color="$cyan"
 dunst_icon_theme="Catppuccin-Mocha"
@@ -73,7 +73,7 @@ jg_sel_fg="$fg"
 jg_sep="$black"
 
 # Rofi menu font and colors
-rofi_font="JetBrainsMono NF Bold 9"
+rofi_font="SFMono Nerd Font Mono Bold 9"
 rofi_background="$bg"
 rofi_bg_alt="$accent_color"
 rofi_background_alt="${bg}ED"

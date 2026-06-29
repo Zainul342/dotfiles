@@ -76,7 +76,7 @@ element-text {
 	enabled:					 true;
     vertical-align:              0.5;
     horizontal-align:            0.5;
-    font:                        "JetBrainsMono NF 9";
+    font:                        "SFMono Nerd Font Mono 9";
     padding:                     0px;
     cursor:                      inherit;
     background-color:            transparent;

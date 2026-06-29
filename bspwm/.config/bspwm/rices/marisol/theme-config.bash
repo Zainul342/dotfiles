@@ -39,7 +39,7 @@ FOCUSED_BC="#bd93f9"	# Focused border color
 
 # Terminal font & size
 term_font_size="10"
-term_font_name="JetBrainsMono Nerd Font"
+term_font_name="SFMono Nerd Font Mono"
 
 # Picom options
 P_FADE="true"			# Fade true|false
@@ -55,7 +55,7 @@ dunst_offset='(20, 60)'
 dunst_origin='top-right'
 dunst_transparency='0'
 dunst_corner_radius='0'
-dunst_font='JetBrainsMono NF Medium 9'
+dunst_font='SFMono Nerd Font Mono Medium 9'
 dunst_border='2'
 dunst_frame_color="$blue"
 dunst_icon_theme="Dracula"
@@ -73,7 +73,7 @@ jg_sel_fg="$fg"
 jg_sep="$blue"
 
 # Rofi menu font and colors
-rofi_font="JetBrainsMono NF Bold 9"
+rofi_font="SFMono Nerd Font Mono Bold 9"
 rofi_background="$bg"
 rofi_bg_alt="$accent_color"
 rofi_background_alt="${bg}E0"
@@ -106,5 +106,5 @@ geany_theme="z0mbi3-Dracula"
 ENGINE="Default"
 
 CUSTOM_DIR="/path/to/your/wallpapers/directory"
-DEFAULT_WALL="/home/zainm/.config/bspwm/rices/marisol/walls/wall-07.webp"
+DEFAULT_WALL="/home/zainm/.config/bspwm/rices/marisol/walls/wall-01.webp"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"

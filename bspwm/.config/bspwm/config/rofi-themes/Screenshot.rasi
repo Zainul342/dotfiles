@@ -49,7 +49,7 @@ inputbar {
 textbox-prompt-colon {
     enabled:                     true;
     expand:                      false;
-    font:                        "JetbrainsMono NF Bold 10";
+    font:                        "SFMono Nerd Font Mono Bold 10";
     str:                         "";
     padding:                     10px 17px 10px 12px;
     border-radius:               0px;
@@ -108,7 +108,7 @@ element {
 }
 
 element-text {
-    font:                        "JetbrainsMono NF Bold 20";
+    font:                        "SFMono Nerd Font Mono Bold 20";
     background-color:            transparent;
     text-color:                  inherit;
     cursor:                      inherit;

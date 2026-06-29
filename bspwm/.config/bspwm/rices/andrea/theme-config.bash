@@ -39,7 +39,7 @@ FOCUSED_BC="#b0a5ed"	# Focused border color
 
 # Terminal font & size
 term_font_size="10"
-term_font_name="JetBrainsMono Nerd Font"
+term_font_name="SFMono Nerd Font Mono"
 
 # Picom options
 P_FADE="true"			# Fade true|false
@@ -55,7 +55,7 @@ dunst_offset='(20, 30)'
 dunst_origin='bottom-right'
 dunst_transparency='1'
 dunst_corner_radius='6'
-dunst_font='JetBrainsMono NF Medium 9'
+dunst_font='SFMono Nerd Font Mono Medium 9'
 dunst_border='1'
 dunst_frame_color="$whiteb"
 dunst_icon_theme="Gruvbox-Plus-Dark"
@@ -73,7 +73,7 @@ jg_sel_fg="$black"
 jg_sep="$whiteb"
 
 # Rofi menu font and colors
-rofi_font="JetBrainsMono NF Bold 9"
+rofi_font="SFMono Nerd Font Mono Bold 9"
 rofi_background="$bg"
 rofi_bg_alt="$blackb"
 rofi_background_alt="${bg}E0"
@@ -106,5 +106,5 @@ geany_theme="z0mbi3-Andrea"
 ENGINE="Default"
 
 CUSTOM_DIR="/path/to/your/wallpapers/directory"
-DEFAULT_WALL="/home/zainm/.config/bspwm/rices/andrea/walls/wall-04.webp"
+DEFAULT_WALL="/home/zainm/.config/bspwm/rices/andrea/walls/wall-08.webp"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"
