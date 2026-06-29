@@ -134,7 +134,7 @@ super + alt + b
 	~/.config/bspwm/bin/OpenApps --bluetooth
 
 super + alt + c
-	clipcat-menu --rofi-extra-arguments="-theme,$HOME/.config/bspwm/config/rofi-themes/Clipboard.rasi" insert
+	copyq toggle
 
 super + alt + a
 	~/.config/bspwm/bin/AndroidMount

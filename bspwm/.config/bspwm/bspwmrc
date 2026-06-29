@@ -79,8 +79,8 @@ run xsettingsd --config="${HOME}"/.config/bspwm/config/xsettingsd >/dev/null 2>&
 # Launch eww daemon (Disabled for RAM optimization)
 # pidof -q eww || { eww -c "${HOME}"/.config/bspwm/eww daemon & }
 
-# Launch clipboard daemon (Lightweight Clipcatd)
-run clipcatd
+# Launch clipboard daemon (Lightweight CopyQ)
+run copyq
 
 # Launch polkit
 run lxpolkit
