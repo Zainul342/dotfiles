@@ -32,5 +32,7 @@ link_file "$DOTFILES_DIR/zsh/.zshrc" "$HOME/.zshrc"
 link_file "$DOTFILES_DIR/ghostty/.config/ghostty" "$HOME/.config/ghostty"
 link_file "$DOTFILES_DIR/nvim/.config/nvim" "$HOME/.config/nvim"
 link_file "$DOTFILES_DIR/bspwm/.config/bspwm" "$HOME/.config/bspwm"
+link_file "$DOTFILES_DIR/copyq/.config/copyq/copyq.conf" "$HOME/.config/copyq/copyq.conf"
+link_file "$DOTFILES_DIR/copyq/.config/copyq/copyq-commands.ini" "$HOME/.config/copyq/copyq-commands.ini"
 
 echo "✨ Dotfiles setup completed successfully!"
