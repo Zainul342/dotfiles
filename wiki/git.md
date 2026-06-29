@@ -1246,3 +1246,7 @@
 ### Today I Learned: Git
 > Reset working tree and index to a clean state using 'git reset --hard HEAD'.
 *Logged at: 2026-06-29T12:32:00*
+
+### Today I Learned: Git
+> Force-push safely with lease validation using 'git push --force-with-lease'.
+*Logged at: 2026-06-29T10:16:58*
