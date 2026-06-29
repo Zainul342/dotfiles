@@ -1262,3 +1262,7 @@
 ### Today I Learned: Git
 > Remove untracked directories and files cleanly using 'git clean -fd'.
 *Logged at: 2026-06-29T20:54:20*
+
+### Today I Learned: Git
+> View a clean, single-line git history tree using 'git log --oneline --graph --all'.
+*Logged at: 2026-06-29T19:53:52*
