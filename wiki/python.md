@@ -1322,3 +1322,7 @@
 ### Today I Learned: Python
 > Use dictionary comprehensions '{k: v for k, v in pairs}' for clean mappings.
 *Logged at: 2026-06-26T09:57:08*
+
+### Today I Learned: Python
+> Get index and value simultaneously in loops using 'for idx, val in enumerate(items)'.
+*Logged at: 2026-06-29T09:25:08*
