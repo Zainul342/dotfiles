@@ -134,7 +134,7 @@ super + alt + b
 	~/.config/bspwm/bin/OpenApps --bluetooth
 
 super + alt + c
-	copyq toggle
+	copyq toggle || copyq
 
 super + alt + a
 	~/.config/bspwm/bin/AndroidMount
