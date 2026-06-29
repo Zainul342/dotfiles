@@ -1278,3 +1278,7 @@
 ### Today I Learned: Git
 > Show who modified each line of a file using 'git blame filename'.
 *Logged at: 2026-06-29T12:49:57*
+
+### Today I Learned: Git
+> List all tracked configurations and their origins using 'git config --list --show-origin'.
+*Logged at: 2026-06-29T17:01:09*
