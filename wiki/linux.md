@@ -1370,3 +1370,7 @@
 ### Today I Learned: Linux
 > Use 'setsid command' to detach a process from the controlling terminal session.
 *Logged at: 2026-06-30T12:51:38*
+
+### Today I Learned: Linux
+> Use 'rsync -avz --progress source/ destination/' for efficient file synchronization.
+*Logged at: 2026-06-30T13:19:55*
