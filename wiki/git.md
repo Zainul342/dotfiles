@@ -1286,3 +1286,7 @@
 ### Today I Learned: Git
 > Modify your last commit message using 'git commit --amend -m "new message"'.
 *Logged at: 2026-06-29T09:54:27*
+
+### Today I Learned: Git
+> Recover lost commits or branch states using the reference log with 'git reflog'.
+*Logged at: 2026-06-30T16:44:02*
