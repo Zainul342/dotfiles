@@ -1382,3 +1382,7 @@
 ### Today I Learned: Python
 > Iterate over keys and values in a dictionary using 'for k, v in dictionary.items()'.
 *Logged at: 2026-06-30T12:58:04*
+
+### Today I Learned: Python
+> Use generator expressions '(x for x in large_range)' to save system memory.
+*Logged at: 2026-06-30T17:20:49*
