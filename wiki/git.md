@@ -1294,3 +1294,7 @@
 ### Today I Learned: Git
 > See staged changes before committing using 'git diff --staged'.
 *Logged at: 2026-06-30T17:22:44*
+
+### Today I Learned: Git
+> Remove untracked directories and files cleanly using 'git clean -fd'.
+*Logged at: 2026-06-30T13:23:52*
