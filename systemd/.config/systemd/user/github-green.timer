@@ -1,0 +1,9 @@
+[Unit]
+Description=Run GitHub Daily Contribution Generator Timer
+
+[Timer]
+OnCalendar=*-*-* 22:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

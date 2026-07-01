@@ -1,0 +1,10 @@
+[Unit]
+Description=Run GitHub Daily Contribution Generator
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python /home/zainm/dotfiles/scripts/green_calendar.py 0
+WorkingDirectory=/home/zainm/dotfiles
+StandardOutput=journal
+StandardError=journal
