@@ -1342,3 +1342,7 @@
 ### Today I Learned: Git
 > See staged changes before committing using 'git diff --staged'.
 *Logged at: 2026-07-01T12:49:32*
+
+### Today I Learned: Git
+> Force-push safely with lease validation using 'git push --force-with-lease'.
+*Logged at: 2026-07-01T13:14:32*
