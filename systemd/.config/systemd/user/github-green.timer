@@ -1,5 +1,5 @@
 [Unit]
-Description=Run GitHub Daily Contribution Generator Timer
+Description=Run GitHub Daily Contribution Generator Timer (git-green)
 
 [Timer]
 OnCalendar=*-*-* 22:30:00
