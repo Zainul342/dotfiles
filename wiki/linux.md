@@ -1398,3 +1398,7 @@
 ### Today I Learned: Linux
 > Monitor disk space usage with 'df -h' and directory sizes with 'du -sh *'.
 *Logged at: 2026-07-02T14:42:37*
+
+### Today I Learned: Linux
+> Check systemd user services logs using 'journalctl --user -u service-name.service'.
+*Logged at: 2026-07-02T21:46:17*
