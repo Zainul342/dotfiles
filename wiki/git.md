@@ -1350,3 +1350,7 @@
 ### Today I Learned: Git
 > Remove untracked directories and files cleanly using 'git clean -fd'.
 *Logged at: 2026-07-02T11:13:23*
+
+### Today I Learned: Git
+> Reset working tree and index to a clean state using 'git reset --hard HEAD'.
+*Logged at: 2026-07-02T14:51:53*
